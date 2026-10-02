@@ -1,0 +1,6 @@
+{
+  "name": "Smart Study Tracker",
+  "description": "AI-powered study tracking with automated YouTube watch vs Shorts distraction detection, subject categorization, and video intelligence using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

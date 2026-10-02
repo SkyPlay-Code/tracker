@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Smart Study Tracker</string>
+    <string name="accessibility_service_description">Automatically monitors YouTube study videos and Shorts to accurately track real focus time and subject-wise progress.</string>
+</resources>

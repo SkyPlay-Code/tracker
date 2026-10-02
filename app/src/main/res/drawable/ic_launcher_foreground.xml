@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="0"
+        android:translateY="0">
+        <!-- Circular soft glow backdrop -->
+        <path
+            android:pathData="M54,30 A24,24 0 1 1 53.99,30"
+            android:fillColor="#1A00E5FF" />
+
+        <!-- Book open base (Study) -->
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M34,68 C34,68 42,65 54,68 C66,65 74,68 74,68 L74,54 C74,54 66,51 54,54 C42,51 34,54 34,54 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M34,64 C34,64 42,61 54,64 C66,61 74,64 74,64 L74,50 C74,50 66,47 54,50 C42,47 34,50 34,50 Z" />
+        <!-- Center Book Spine line -->
+        <path
+            android:pathData="M54,50 L54,64"
+            android:strokeWidth="2"
+            android:strokeColor="#1A237E" />
+
+        <!-- Hourglass / Timer Focus Icon on top (Tracking focus) -->
+        <path
+            android:fillColor="#FFD54F"
+            android:pathData="M44,32 L64,32 L58,41 L64,50 L44,50 L50,41 Z" />
+        <path
+            android:fillColor="#FFE082"
+            android:pathData="M46,34 L62,34 L54,42 Z" />
+        <path
+            android:fillColor="#FFB300"
+            android:pathData="M46,48 L62,48 L54,41 Z" />
+
+        <!-- Graduation cap tassel accent -->
+        <path
+            android:pathData="M54,30 L54,26 L66,31"
+            android:strokeWidth="2"
+            android:strokeColor="#FFFFFF" />
+    </group>
+</vector>
